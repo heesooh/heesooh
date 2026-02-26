@@ -3,8 +3,7 @@
 # 👋 Hi, I’m Heesoo  
 
 💻 I’m a **Software Developer** with experience in web development, cybersecurity, and cloud applications.  
-🔐 Recently achieved **Security+ Certification (CompTIA)**.  
-☁️ Currently preparing for **AWS Solutions Architect** certification.  
+🔐 Achieved **Security+ Certification (CompTIA)** & **AWS Solutions Architect** certifications.  
 🎯 My long-term goal is to grow into a **Cloud & Solutions Architect**, combining software engineering and infrastructure expertise.  
 
 ---
